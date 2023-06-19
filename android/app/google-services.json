@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "112719003472",
+    "project_id": "svttraining-a5400",
+    "storage_bucket": "svttraining-a5400.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112719003472:android:963e110176d7e5bc7ef655",
+        "android_client_info": {
+          "package_name": "com.example.testing2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112719003472-56226gat7u5dh4kv0qcbme5h7cf935ub.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.testing2",
+            "certificate_hash": "e845169235a2f3ee62113a1fa048ed4eda996e09"
+          }
+        },
+        {
+          "client_id": "112719003472-fht2er3papcrjqhhv00vhgpvs9ed1l5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqKBKZYQC5lLiURTNz5-k6BAlY4XkWg1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112719003472-fht2er3papcrjqhhv00vhgpvs9ed1l5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
